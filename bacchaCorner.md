@@ -8,5 +8,5 @@
 |  [Valmiki](/docs/529 - Valmiki.pdf)  | [Ganesha](/docs/509 - Ganesha (2).pdf) |
 |  [Shakuntala](/docs/530 - Shakuntala.pdf)  | [Ganga](/docs/515 - Ganga.pdf) |
 |  [Ghatothkacha](/docs/592 - Ghatothkacha.pdf)  | [Kumbhakarna](/docs/528 - Kumbhakarna.pdf) |
-|  [Vishwamitra](/docs/599 - Vishwamitra.pdf)  |  |
+|  [Vishwamitra](/docs/599 - Vishwamitra.pdf)  | [Dhruv - Chumba ka Chakravyuh](/docs/vdocuments.site_dhruv-chumba-ka-chakravyuh.pdf) |
 |  
