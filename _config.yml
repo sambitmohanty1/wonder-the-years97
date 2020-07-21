@@ -1,1 +1,21 @@
 theme: jekyll-theme-architect
+
+# Social
+analytics-id:       "default"
+twitter:            default
+facebook:           default
+instagram:          default
+github:             default
+
+# Gems
+gems:
+  - jekyll-mentions
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  
+ 
+ 
+jekyll-mentions:
+    base_url: https://github.com
