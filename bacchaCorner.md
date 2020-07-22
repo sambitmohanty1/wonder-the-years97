@@ -11,6 +11,6 @@
 |  [Vishwamitra](/docs/599 - Vishwamitra.pdf)  | [Dhruv Chumba ka Chakravyuh](/docs/dhruv-chumba-ka-chakravyuh.pdf) |
 
 
+[Back]({{ site.url }}/)
 
 
-<a href onclick="window.history.back()">Back</a>
