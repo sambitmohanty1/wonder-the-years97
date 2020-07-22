@@ -1,3 +1,9 @@
+# Site
+title:              IEMS 97 cohort
+bio:                'Play the Game'
+description:        "We describe ourselves"
+
+
 theme: jekyll-theme-merlot
 
 # Google Analytics
