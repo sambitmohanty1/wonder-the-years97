@@ -9,4 +9,8 @@
 |  [Shakuntala](/docs/530 - Shakuntala.pdf)  | [Ganga](/docs/515 - Ganga.pdf) |
 |  [Ghatothkacha](/docs/592 - Ghatothkacha.pdf)  | [Kumbhakarna](/docs/528 - Kumbhakarna.pdf) |
 |  [Vishwamitra](/docs/599 - Vishwamitra.pdf)  | [Dhruv Chumba ka Chakravyuh](/docs/dhruv-chumba-ka-chakravyuh.pdf) |
-|  
+
+
+
+
+<a onclick="window.history.back()">Back</a>
