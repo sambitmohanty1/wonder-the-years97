@@ -1,5 +1,8 @@
 theme: jekyll-theme-architect
 
+# Google Analytics
+google_analytics: UA—173255588-1
+
 # Social
 analytics-id:       "default"
 twitter:            default
