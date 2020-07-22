@@ -11,6 +11,6 @@
 |  [Vishwamitra](/docs/599 - Vishwamitra.pdf)  | [Dhruv Chumba ka Chakravyuh](/docs/dhruv-chumba-ka-chakravyuh.pdf) |
 
 
-[Back]({{ site.url }}/)
+<input type="button" value="Go Back From Whence You Came!" onclick="history.back(-1)" />
 
 
