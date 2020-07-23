@@ -6,6 +6,8 @@ description:        "We describe ourselves"
 
 theme: jekyll-theme-merlot
 
+plugins:
+  - jekyll-seo-tag
 # Google Analytics
 google_analytics: UA—173255588-1
 
